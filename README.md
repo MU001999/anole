@@ -1,6 +1,6 @@
 # Anole
 
-A tiny shiftless programming language.
+A tiny functional programming language.
 
 ```
     _                _
